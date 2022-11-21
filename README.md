@@ -1,8 +1,6 @@
 # VeriYapilari_3
 Binary-Search-Tree
 [7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
-Binary Search Tree oluştururken Root'un sağ tarafından kendinden büyük elemanlar, sol tarafında ise küçük elemanlar bulunur.
-Root -> 7 olsun.
 
 5, 7'den küçüktür, dolayısıyla 1. Düğüm Satırı'nda 7'nin sol tarafında olacaktır.
 
